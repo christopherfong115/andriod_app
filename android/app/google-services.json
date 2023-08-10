@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "270908737539",
+    "project_id": "meals-app-72172",
+    "storage_bucket": "meals-app-72172.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:270908737539:android:0d1d925da5467d1e01e636",
+        "android_client_info": {
+          "package_name": "com.candm.mealsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "270908737539-8sk0qli4cc4ojd0t4kk8eu3332i1k8qa.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.candm.mealsapp",
+            "certificate_hash": "f9401d5df5d3193405359b5e1bbd67d6c91cee9c"
+          }
+        },
+        {
+          "client_id": "270908737539-79tfvbnk5spvcnpnlai4t2vnur286oqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDd1ghYmkc_PH_WfH4vAPvF_p-o7jSbNcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "270908737539-79tfvbnk5spvcnpnlai4t2vnur286oqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
